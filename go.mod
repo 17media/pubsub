@@ -1,4 +1,4 @@
-module pubsub
+module github.com/17media/pubsub
 
 go 1.13
 
